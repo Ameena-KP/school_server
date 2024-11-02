@@ -1,0 +1,3 @@
+Add Students :-
+
+- localhost:3000/addStudents + post + [name,batch,image,phone,teacher_id] + [content-type:multipart/form-data,Authorization:token=header]
